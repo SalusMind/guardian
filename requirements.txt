@@ -1,0 +1,15 @@
+certifi==2018.4.16
+chardet==3.0.4
+docutils==0.14
+future==0.16.0
+idna==2.7
+lockfile==0.12.2
+oauthlib==2.1.0
+pid==2.2.0
+python-daemon==2.1.2
+python-twitter==3.4.2
+requests==2.19.1
+requests-oauthlib==1.0.0
+service==0.5.1
+setproctitle==1.1.10
+urllib3==1.23
